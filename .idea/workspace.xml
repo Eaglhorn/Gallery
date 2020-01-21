@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7d7775d-f526-40ff-bc6f-1adf5e0eb265" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/components-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/components.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/photos/photos.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/photos/photos.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/photos/photos.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/photos/photos.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/header/header.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/header/header.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/layout-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/layout.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/layout.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/layout.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/layout.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/layout.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/sidebar/sidebar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/sidebar/sidebar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/sidebar/sidebar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout/sidebar/sidebar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/components/empty/empty.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/components/empty/empty.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/components/empty/empty.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/components/empty/empty.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/services/images.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WcoG4pL0RNhWx4e8wLjfPHxSpJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/layout" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/layout" />
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/app/components" />
+      <recent name="$PROJECT_DIR$/src/app/layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.photos.component.html">
+    <configuration name="Tests (Photo-gallery)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (Photo-gallery)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="photos.component.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Photo-gallery/src/app/components/photos/photos.component.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.photos.component.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7d7775d-f526-40ff-bc6f-1adf5e0eb265" name="Default Changelist" comment="" />
+      <created>1579458144494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579458144494</updated>
+      <workItem from="1579458146134" duration="35645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="214" width="800" height="677" key="#Inspections" timestamp="1579561250149">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="583" y="214" width="800" height="677" key="#Inspections/57.27.1863.1053@57.27.1863.1053" timestamp="1579561250149" />
+    <state x="687" y="357" width="593" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579560013464">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="687" y="357" width="593" height="390" key="#com.intellij.fileTypes.FileTypeChooser/57.27.1863.1053@57.27.1863.1053" timestamp="1579560013464" />
+    <state x="721" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579569553502">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="721" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/57.27.1863.1053@57.27.1863.1053" timestamp="1579569553502" />
+    <state x="537" y="149" width="892" height="807" key="CommitChangelistDialog2" timestamp="1579599981660">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="537" y="149" width="892" height="807" key="CommitChangelistDialog2/57.27.1863.1053@57.27.1863.1053" timestamp="1579599981660" />
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579468645980">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl/57.27.1863.1053@57.27.1863.1053" timestamp="1579468645980" />
+    <state width="1840" height="278" key="GridCell.Tab.0.bottom" timestamp="1579566851971">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state width="1840" height="278" key="GridCell.Tab.0.bottom/57.27.1863.1053@57.27.1863.1053" timestamp="1579566851971" />
+    <state width="1840" height="278" key="GridCell.Tab.0.center" timestamp="1579566851969">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state width="1840" height="278" key="GridCell.Tab.0.center/57.27.1863.1053@57.27.1863.1053" timestamp="1579566851969" />
+    <state width="1840" height="278" key="GridCell.Tab.0.left" timestamp="1579566851968">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state width="1840" height="278" key="GridCell.Tab.0.left/57.27.1863.1053@57.27.1863.1053" timestamp="1579566851968" />
+    <state width="1840" height="278" key="GridCell.Tab.0.right" timestamp="1579566851970">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state width="1840" height="278" key="GridCell.Tab.0.right/57.27.1863.1053@57.27.1863.1053" timestamp="1579566851970" />
+    <state x="157" y="125" width="1663" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579467170614">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="157" y="125" width="1663" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/57.27.1863.1053@57.27.1863.1053" timestamp="1579467170614" />
+    <state x="637" y="271" width="700" height="530" key="recent.locations.popup" timestamp="1579561465398">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="637" y="271" width="700" height="530" key="recent.locations.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1579561465398" />
+    <state x="652" y="253" key="run.anything.popup" timestamp="1579567494878">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="652" y="253" key="run.anything.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1579567494878" />
+  </component>
+</project>

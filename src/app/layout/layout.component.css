@@ -1,0 +1,10 @@
+.main-content {
+  margin-left: 210px;
+}
+.wrapper {
+  display: inline-block;
+  margin-top: 60px;
+  padding: 0 15px 15px 15px;
+  width: 100%;
+  background-color: white;
+}
